@@ -19,6 +19,8 @@ Stryker is a new generation mobile pentest application. It will help you to test
 
 [Channel & Chat](http://t.me/strykerapp "Channel & Chat")
 
+  
+
 [Short features overview](https://youtu.be/2n6NxE_sGm4 "Short features overview")
 
 ### Support
